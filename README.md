@@ -1,6 +1,6 @@
 
 # OpenWrt firmware for K2-PSG1218-A
-固件采用GitHub Actions不定时自动云编译斐讯K2-PSG1218-A。  
+固件采用GitHub Actions每5天自动云编译斐讯K2-PSG1218-A。  
 Auto build OpenWrt firmware for K2-PSG1218-A via GitHub Actions
 
 # 致谢大佬&Thanks

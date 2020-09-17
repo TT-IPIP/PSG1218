@@ -18,10 +18,10 @@ on:
 #      - master
 #    paths:
 #      - '.config'
-  schedule:
+#  schedule:
 #    - cron: 0 20 * * 5
 #          分 时 日 月 周5
-   - cron: 0 20 */5 * *
+#   - cron: 0 20 */5 * *
   watch:
     types: started
 
